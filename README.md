@@ -75,3 +75,8 @@ Start the dev server
 ## License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Support
+
+If you want to support me and get more insight update around the project, you can do this here :
+[Link](https://polar.sh/Lunakepio)
